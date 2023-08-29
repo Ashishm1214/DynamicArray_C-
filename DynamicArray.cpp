@@ -158,7 +158,7 @@ DynArray::find(int data)
     return -1;
 }
 
-//main section
+//main block
 int main()
 {
 
