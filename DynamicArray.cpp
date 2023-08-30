@@ -149,7 +149,7 @@ DynArray::~DynArray()
 }
 
 //find to know that given data is present in the array or not
-DynArray::find(int data)
+int DynArray::find(int data)
 {
     int i;
     for(i=0;i<=lastindex;i++)
